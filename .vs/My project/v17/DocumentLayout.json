@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lyo72\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lyo72\\My project\\Assets\\Scripts\\ListOfCharacter\\ListOfCharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ListOfCharacter\\ListOfCharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\lyo72\\my project\\assets\\scripts\\gamemanager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\lyo72\\My project\\assets\\scripts\\behaviors\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\behaviors\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\lyo72\\My project\\assets\\scripts\\controllers\\animationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\animationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\lyo72\\My project\\assets\\scripts\\controllers\\characteranimationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\characteranimationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\lyo72\\My project\\assets\\scripts\\controllers\\playerinputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\playerinputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\lyo72\\My project\\assets\\scripts\\controllers\\project controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\project controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\lyo72\\My project\\assets\\scripts\\buttons\\joinbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttons\\joinbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\lyo72\\My project\\assets\\scripts\\buttons\\changenamebtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttons\\changenamebtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\lyo72\\My project\\assets\\scripts\\time\\timeutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\time\\timeutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\lyo72\\My project\\assets\\scripts\\buttons\\opencharacterselectbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttons\\opencharacterselectbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\lyo72\\My project\\assets\\scripts\\buttons\\changecharacterbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttons\\changecharacterbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\lyo72\\My project\\assets\\scripts\\buttons\\characterselectbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttons\\characterselectbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\lyo72\\My project\\assets\\scripts\\camera\\cameramove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\cameramove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lyo72\\My project\\Assets\\Scripts\\Buttons\\ExistCharacterBtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Buttons\\ExistCharacterBtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListOfCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\lyo72\\My project\\Assets\\Scripts\\ListOfCharacter\\ListOfCharacter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ListOfCharacter\\ListOfCharacter.cs",
+              "ToolTip": "C:\\Users\\lyo72\\My project\\Assets\\Scripts\\ListOfCharacter\\ListOfCharacter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ListOfCharacter\\ListOfCharacter.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:37:40.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerInputController.cs",
+              "DocumentMoniker": "C:\\Users\\lyo72\\My project\\Assets\\Scripts\\Controllers\\PlayerInputController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\PlayerInputController.cs",
+              "ToolTip": "C:\\Users\\lyo72\\My project\\Assets\\Scripts\\Controllers\\PlayerInputController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\PlayerInputController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T02:01:44.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CharacterAnimationController.cs",
+              "DocumentMoniker": "C:\\Users\\lyo72\\My project\\Assets\\Scripts\\Controllers\\CharacterAnimationController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\CharacterAnimationController.cs",
+              "ToolTip": "C:\\Users\\lyo72\\My project\\Assets\\Scripts\\Controllers\\CharacterAnimationController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\CharacterAnimationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:24:10.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChangeNameBtn.cs",
+              "DocumentMoniker": "C:\\Users\\lyo72\\My project\\Assets\\Scripts\\Buttons\\ChangeNameBtn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Buttons\\ChangeNameBtn.cs",
+              "ToolTip": "C:\\Users\\lyo72\\My project\\Assets\\Scripts\\Buttons\\ChangeNameBtn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Buttons\\ChangeNameBtn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:55:49.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JoinBtn.cs",
+              "DocumentMoniker": "C:\\Users\\lyo72\\My project\\Assets\\Scripts\\Buttons\\JoinBtn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Buttons\\JoinBtn.cs",
+              "ToolTip": "C:\\Users\\lyo72\\My project\\Assets\\Scripts\\Buttons\\JoinBtn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Buttons\\JoinBtn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:51:53.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\lyo72\\My project\\Assets\\Scripts\\Behaviors\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Behaviors\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\lyo72\\My project\\Assets\\Scripts\\Behaviors\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Behaviors\\PlayerMovement.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvx0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T02:17:20.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Project Controller.cs",
+              "DocumentMoniker": "C:\\Users\\lyo72\\My project\\Assets\\Scripts\\Controllers\\Project Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\Project Controller.cs",
+              "ToolTip": "C:\\Users\\lyo72\\My project\\Assets\\Scripts\\Controllers\\Project Controller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\Project Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T00:31:31.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnimationController.cs",
+              "DocumentMoniker": "C:\\Users\\lyo72\\My project\\Assets\\Scripts\\Controllers\\AnimationController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\AnimationController.cs",
+              "ToolTip": "C:\\Users\\lyo72\\My project\\Assets\\Scripts\\Controllers\\AnimationController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\AnimationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T03:23:14.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TimeUtils.cs",
+              "DocumentMoniker": "C:\\Users\\lyo72\\My project\\Assets\\Scripts\\Time\\TimeUtils.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Time\\TimeUtils.cs",
+              "ToolTip": "C:\\Users\\lyo72\\My project\\Assets\\Scripts\\Time\\TimeUtils.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Time\\TimeUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:27:30.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OpenCharacterSelectBtn.cs",
+              "DocumentMoniker": "C:\\Users\\lyo72\\My project\\Assets\\Scripts\\Buttons\\OpenCharacterSelectBtn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Buttons\\OpenCharacterSelectBtn.cs",
+              "ToolTip": "C:\\Users\\lyo72\\My project\\Assets\\Scripts\\Buttons\\OpenCharacterSelectBtn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Buttons\\OpenCharacterSelectBtn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:27:53.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChangeCharacterBtn.cs",
+              "DocumentMoniker": "C:\\Users\\lyo72\\My project\\Assets\\Scripts\\Buttons\\ChangeCharacterBtn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Buttons\\ChangeCharacterBtn.cs",
+              "ToolTip": "C:\\Users\\lyo72\\My project\\Assets\\Scripts\\Buttons\\ChangeCharacterBtn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Buttons\\ChangeCharacterBtn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:10:58.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CharacterSelectBtn.cs",
+              "DocumentMoniker": "C:\\Users\\lyo72\\My project\\Assets\\Scripts\\Buttons\\CharacterSelectBtn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Buttons\\CharacterSelectBtn.cs",
+              "ToolTip": "C:\\Users\\lyo72\\My project\\Assets\\Scripts\\Buttons\\CharacterSelectBtn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Buttons\\CharacterSelectBtn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:39:56.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExistCharacterBtn.cs",
+              "DocumentMoniker": "C:\\Users\\lyo72\\My project\\Assets\\Scripts\\Buttons\\ExistCharacterBtn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Buttons\\ExistCharacterBtn.cs",
+              "ToolTip": "C:\\Users\\lyo72\\My project\\Assets\\Scripts\\Buttons\\ExistCharacterBtn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Buttons\\ExistCharacterBtn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:59:12.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CameraMove.cs",
+              "DocumentMoniker": "C:\\Users\\lyo72\\My project\\Assets\\Scripts\\Camera\\CameraMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\CameraMove.cs",
+              "ToolTip": "C:\\Users\\lyo72\\My project\\Assets\\Scripts\\Camera\\CameraMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\CameraMove.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T02:06:06.463Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "12e72553-56f6-46cd-a082-da3835554a67",
+        "Display": 0,
+        "X": 1149,
+        "Y": 387,
+        "Width": 1036,
+        "Height": 745,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\lyo72\\My project\\Assets\\Scripts\\GameManager\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager\\GameManager.cs",
+              "ToolTip": "C:\\Users\\lyo72\\My project\\Assets\\Scripts\\GameManager\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:04:30.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

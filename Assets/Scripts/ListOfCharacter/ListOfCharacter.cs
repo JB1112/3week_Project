@@ -19,8 +19,9 @@ public class ListOfCharacter :MonoBehaviour
     {
         CharacterList.Clear();
         CharacterList.Add(NameTxt.text);
-        CharacterList.Add("aaa"); //리스트 입력 작동 잘 되는지 테스트
+        CharacterList.Add("Muddy"); //리스트 입력 작동 잘 되는지 테스트
         CharacterList.Add("bbb");
+        /*Set List*/
         SetText();
     }
 
@@ -33,4 +34,15 @@ public class ListOfCharacter :MonoBehaviour
         }
         Character.text = Txt;
     }
+    
+    /*private void SetList()
+    {
+        CharacterList.Clear();
+        CharacterList.Add(NameTxt.text);
+        for(int i = 0;i < NPCList.Count;i++)
+        {
+            CharacterList.Add(NPCList[i]);
+        }
+    }*/
+    //NPC가 다수라면 리스트를 작성 후 끌어오는 방식 채용
 }
